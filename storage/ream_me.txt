@@ -1,0 +1,2 @@
+The main(core) idea of this project is to save processed photos to local PC first and then open these photos and show in our streamlit UI.
+So, you need to create a folder to save these photos!!
